@@ -1,0 +1,25 @@
+main {
+	width: 100%;
+	height: 100vh;
+}
+
+#logo {
+	width: 50px;
+}
+
+footer {
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+}
+
+.disabled {
+	cursor: not-allowed;
+}
+
+.scroll-permissions {
+	overflow-y: auto;
+	height: 150px;
+}
+
